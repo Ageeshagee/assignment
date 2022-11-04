@@ -1,0 +1,113 @@
+body{
+    margin: 0px;
+    background: url(images/tree-736885__480.jpg);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navigation{
+    float:right;
+    margin-top: 15px;
+
+}
+.head{
+    width: 100%;
+    height:80px;
+    background-color: black;
+}
+.image{
+width: 50px;
+height: 50px;
+margin-left: 200px;
+margin-top: 10px;
+
+}
+.navigation a{
+    text-decoration: none;
+    color: white;
+    margin-right: 7px;
+   border: 2px solid white;
+   padding: 6px;
+  
+}
+.navigation a:hover{
+    background-color: aqua;
+    color: black;
+    transition: .5s ease-in-out;
+}
+.body_1{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 100px;
+    width: 50%;
+}
+.a_1{
+    margin-left: 42px;
+}
+.list{
+   padding: 2px; 
+   list-style-type: square;
+
+}
+.body_2{
+    margin: 100px;
+    width: 16%;
+    margin-left: 1000px;
+    margin-top: -235px;
+    height: 320px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+.login{
+    color: wheat;
+    text-align: center;
+}
+form{
+    color: white;
+    margin-left: 5px;
+    padding: 15px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+form button{
+    background-color: blue;
+    color: blanchedalmond;
+    width: 97%;
+}
+.but{
+    margin-top: 15px;
+}
+.container{
+    margin-left: 65px;
+}
+.main{
+    width:22%;
+    height: 19em;
+    background-color: blue;
+    float: left;
+    padding: 5px;
+    border: 1px solid white;
+    background-color:lightgray;
+    margin-left: 5px;
+}
+.main h3{
+    text-align: center;
+}
+.main p{
+    text-align: justify;
+}
+.main a{
+    text-decoration: none;
+    color: red;
+}
+footer{
+    height: 3em;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color: black;
+    margin-top: 480px;
+}
+form a{
+    text-decoration: none;
+    margin-left: 2px;
+}
